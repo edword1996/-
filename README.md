@@ -21,4 +21,7 @@ To start a project, open a command prompt in the folder where the project is loc
 python Train.py  -x
 
 ```
+# Result
+
+![im](https://user-images.githubusercontent.com/54912523/81176944-92e84b00-8fae-11ea-9849-7e84d591685c.JPG)
 
