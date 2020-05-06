@@ -14,7 +14,9 @@ input: 6 output: 12
 There are no packages to install in this task.
 
 # Usage
+If necessary, you can change the input data in a text file (data.txt).
+
 To start a project, open a command prompt in the folder where the project is located.
 ```
-python Train.py --video video.avi
+python Train.py 
 ```
